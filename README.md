@@ -31,6 +31,7 @@ This project is a feature-rich **E-Commerce Backend** built with Node.js and Exp
 - [📂 Project Structure](#-project-structure)
 - [⚙️ Getting Started](#️-getting-started)
 - [📘 API Documentation](#-api-documentation)
+- [📞 Contact](#-contact)
 
 ---
 
@@ -111,7 +112,7 @@ This project is a feature-rich **E-Commerce Backend** built with Node.js and Exp
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <repo-url>
 cd ecommerce_api
 
 # Install dependencies
@@ -156,14 +157,13 @@ For a detailed breakdown of every endpoint, including request bodies and sample 
 
 ---
 
-## 📞 Contact & Links
-
-I am actively seeking opportunities where I can contribute my expertise in backend systems, scalable architectures, and clean code principles.
+## 📞 Contact
 
 - 📧 **Email**: [mahmoudjawad02025@gmail.com](mailto:mahmoudjawad02025@gmail.com)
-- 🔗 **GitHub Profile**: [@mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+- 💻 **GitHub Profile**: [@mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+- 💼 **LinkedIn:** [linkedin.com/in/mahmoud-abu-alsebaa](https://linkedin.com/in/mahmoud-abu-alsebaa)
 
 <br>
-<div align="center">
+<div align="left">
   <i>Architected with passion, driven by clean code.</i>
 </div>
