@@ -164,6 +164,6 @@ For a detailed breakdown of every endpoint, including request bodies and sample 
 - 💼 **LinkedIn:** [linkedin.com/in/mahmoud-abu-alsebaa](https://linkedin.com/in/mahmoud-abu-alsebaa)
 
 <br>
-<div align="left">
+<div align="center">
   <i>Architected with passion, driven by clean code.</i>
 </div>
